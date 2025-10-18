@@ -4,7 +4,7 @@
 - 📫 Como chegar até mim? Entre em contato comigo pelo meu e-mail: matheus.marques042@sptech.school
 - ⚡ Fato divertido fiz biomedicina antes de iniciar Analise e Desenvolvimentos de Sistemas
 
-<!---
-MatheusAMarques/MatheusAMarques is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Languages and Tools:
+aws bash css3 figma git html5 javascript linux mysql nodejs
+
+
